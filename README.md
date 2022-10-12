@@ -2,7 +2,6 @@
 
 <span align="center">
     <img height="400" src="./github/preview1.png">
-    ...
     <img height="400" src="./github/preview2.png">
 </span>
     
