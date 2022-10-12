@@ -1,13 +1,13 @@
 # Lab Design System
 
-<div>
+<p>
 
     <span align="center">
         <img height="400" src="./github/preview1.png">
         <img height="400" src="./github/preview2.png">
     </span>
     
-</div>
+</p>
 
 > Trilha Ignite
 
