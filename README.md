@@ -1,8 +1,9 @@
 # Lab Design System
 
 <span align="center">
-    <img height="300" src="./github/preview1.png">
-    <img height="300" src="./github/preview2.png">
+    <img height="400" src="./github/preview1.png">
+    ...
+    <img height="400" src="./github/preview2.png">
 </span>
     
 </p>
