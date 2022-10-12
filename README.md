@@ -3,7 +3,6 @@
 <p align="center">
 <span align="center">
 <img height="400" src="./github/preview1.png">
-    <p> </p>
 <img height="400" src="./github/preview2.png">
 </span>
     
