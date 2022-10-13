@@ -31,7 +31,7 @@ Storybook App --> https://lucadboer.github.io/LAB-Design-System/
 - Components React
 - Typing with typescript
 - Radix UI Components 
-- CI e CD DevOps
+- CI and CD DevOps
 
 ## 💛 Contact
 
