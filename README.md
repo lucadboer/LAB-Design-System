@@ -10,9 +10,9 @@
 
 > Trilha Ignite
 
-Design System desenvolvido utilizando vários recursos da tecnologia Storybook para a documentação da aplicação
+Design System desenvolvido utilizando vários recursos da tecnologia Storybook para a documentação da aplicação, foi feito a automatização de atualizações dos componentes no Storybook quando outros futuramentes forem adicionados utilizando a tecnlogia Github Actions com CI e CD
 
-Design System using Storybook technology developed for application documentation
+Storybook Design System developed for future application documentation, updates of components in Storybook were automated when other resources added using Github Actions technology with CI and CD
 
 Storybook App --> https://lucadboer.github.io/LAB-Design-System/
 
@@ -23,6 +23,7 @@ Storybook App --> https://lucadboer.github.io/LAB-Design-System/
 - TypeScript
 - TailwindCSS
 - Radix UI
+- Github Pages
 
 ## 🧑‍💻 Applications
 
@@ -30,6 +31,7 @@ Storybook App --> https://lucadboer.github.io/LAB-Design-System/
 - Components React
 - Typing with typescript
 - Radix UI Components 
+- CI e CD DevOps
 
 ## 💛 Contact
 
