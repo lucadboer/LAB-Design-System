@@ -23,8 +23,8 @@ function App() {
       <label className='flex flex-col gap-2' htmlFor="email">
         <Text size='sm'>Endereço de e-mail:</Text>
         <TextInput.Root>
-          <TextInput.Icon className='focus-within:text-cyan-500'>
-            <EnvelopeSimple />
+          <TextInput.Icon>
+            <EnvelopeSimple className='text-cyan-500' />
           </TextInput.Icon>
 
           <TextInput.Input placeholder='Digite seu email' id='email' />
@@ -33,9 +33,9 @@ function App() {
 
       <label className='flex flex-col gap-2' htmlFor="password">
         <Text size='sm'>Sua senha:</Text>
-        <TextInput.Root >
+        <TextInput.Root>
           <TextInput.Icon>
-            <Lock />
+            <Lock className='text-cyan-500' />
           </TextInput.Icon>
 
           <TextInput.Input placeholder='*********' id='password' />

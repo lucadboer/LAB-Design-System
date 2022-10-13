@@ -3,6 +3,7 @@ import { InputHTMLAttributes, ReactNode } from 'react'
 
 export interface TaskInputRootProps {
   children: ReactNode
+  //className: string
 }
 
 
