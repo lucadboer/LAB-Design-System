@@ -2,7 +2,7 @@
 
 <p align="center">
 <span align="center">
-<img width="600" height="300" src="./github/preview1.png">
+<img width="600" height="350" src="./github/preview1.png">
 </span>
     
 </p>
