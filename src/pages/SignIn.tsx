@@ -48,7 +48,7 @@ export function SignIn() {
              <EnvelopeSimple />
            </TextInput.Icon>
  
-           <TextInput.Input placeholder='Digite seu e-mail' id='email' />
+           <TextInput.Input placeholder='Digite seu e-mail' id='email' type='email' required />
          </TextInput.Root>
        </label>
  
@@ -59,7 +59,7 @@ export function SignIn() {
              <Lock />
            </TextInput.Icon>
  
-           <TextInput.Input type='password' placeholder='*********' id='password' />
+           <TextInput.Input type='password' placeholder='*********' id='password' required />
          </TextInput.Root>
        </label>
  
