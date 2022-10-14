@@ -11,7 +11,7 @@ export interface TaskInputInputProps extends InputHTMLAttributes<HTMLInputElemen
 
 function TextInputRoot({ children }:TaskInputRootProps) {
   return (
-  <div className='flex items-center gap-3 h-12 py-4 px-3 bg-gray-800 rounded focus-within:ring-2 ring-cyan-300 w-full'>
+  <div className='flex items-center gap-3 group h-12 py-4 px-3 bg-gray-800 rounded focus-within:ring-2 ring-cyan-300 w-full'>
     {children}
   </div>
   )
@@ -26,7 +26,7 @@ export interface TextInputIconProps {
 
 function TextInputIcon({ children, className }: TextInputIconProps) {
   return (
-  <Slot className='text-gray-400 w-6 h-6' >
+  <Slot className='text-cyan-500 w-6 h-6 '  >
     {children}
   </Slot>
   )
